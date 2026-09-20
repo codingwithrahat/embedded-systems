@@ -7,8 +7,8 @@ void setup()
     pinMode(pin2, OUTPUT);
 }
 
-void loop()
-{
+void loop(){
+
     digitalWrite(pin, HIGH);
     delay(100);
 
